@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Dark Web",
+      "image": "https://media.istockphoto.com/id/1325756751/vector/hacker-cyber-criminal-with-laptop-stealing-user-personal-data-hacker-attack-and-web-security.jpg?s=612x612&w=0&k=20&c=f36goHUkOw5iaN-sun02MEWniCG41ue83YJSix1bQ3w=",
+      "description": "An encrypted part of the internet not indexed by search engines and needs specific authorization to access"
+    },
+    {
+        "title": "Login And Go",
+      "image": "https://cdn-icons-png.flaticon.com/128/2170/2170153.png",
+      "description": "A procedure that enables an entity to access a secure system such as an operating system, application, service, website or other resource"
+    },
+    {
+        "title": "Password Login",
+      "image": "https://cdn1.vectorstock.com/i/1000x1000/32/80/password-protection-icon-cartoon-style-vector-37443280.jpg",
+      "description": "A secret combination of characters that identify a user and grant access to a specific device or website"
+    },
+    {
+        "title": "2FA authentication",
+      "image": "https://as2.ftcdn.net/v2/jpg/03/43/77/27/1000_F_343772779_NumAavTMMyMFBqnSCA2ENbt2cXAvWrKk.jpg",
+      "description": "a security process in which users provide two different authentication factors to verify themselves."
+    }
+]
